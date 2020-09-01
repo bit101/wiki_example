@@ -3,4 +3,4 @@
 - [Stuff to Buy](docs/stuff_to_buy.md)
 - [Movies to Watch](docs/movies_to_watch.md)
 - [Birthdays](docs/birthdays.md)
-- [Bank Account Credentials](docs/bank_account_credentials.md)
+- [Projects](docs/projects.md)
