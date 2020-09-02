@@ -2,6 +2,8 @@
 
 # Birthdays
 
-- Paw 01/01/20
-- Maw 05/08/23
-- Sis 08/09/42
+| Who   | When     | Gift      |
+|-------|----------|-----------|  
+| Paw   | 01/01/20 | Whiskey   |
+| Maw   | 05/08/23 | Flowers   |
+| Sis   | 08/09/42 | Gift Card |
